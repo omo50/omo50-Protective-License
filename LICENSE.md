@@ -22,4 +22,4 @@ Binaries correspond to any and all forms of the work other than the source code.
 This License corresponds to the full text of this document.
 
 1.4. "Copyright Notice": 
-The Copyright Notice corresponds to the second line of This License, starting with "© (copyright)".
+The Copyright Notice corresponds to the second line of This License, starting with "Copyright ©".
