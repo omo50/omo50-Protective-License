@@ -42,6 +42,7 @@ under This License.
 
 2.2.
 You may not sell it without written permission from the author.
+
 2.2.1
 Written permission, if not responded to within ``90 days`` from the permission request, you may assume permission is automatically granted
 
